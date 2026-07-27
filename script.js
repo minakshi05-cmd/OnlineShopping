@@ -19,3 +19,5 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     }
 
 });
+
+console.log("User Login Jira Integration Testing");
